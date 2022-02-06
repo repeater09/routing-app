@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+body {
+    background: url('https://i.pinimg.com/originals/2b/4c/84/2b4c84ddfa146987697fffbc15f565aa.jpg');
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}

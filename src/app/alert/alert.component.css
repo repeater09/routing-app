@@ -1,0 +1,27 @@
+.alert-container {
+    padding-bottom: 40px;
+}
+
+.alert {
+    padding: 5px;
+}
+
+.alert-caution {
+    background-color: yellow;
+    color: yellowgreen;
+}
+
+.alert-error {
+    background-color: red;
+    color: rgba(153, 8, 8, 0.856);
+}
+
+.alert-info {
+    background-color: blue;
+    color: skyblue;
+}
+
+.alert-success {
+    background: springgreen;
+    color: greenyellow;
+}
